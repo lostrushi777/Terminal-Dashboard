@@ -1,5 +1,7 @@
 # Terminal-Dashboard
 
+![altimage](https://github.com/lostrushi777/Terminal-Dashboard/blob/main/monitor_preview.png?raw=true)
+
 # Features
 - Real-time CPU usage monitoring
 - CPU temperature monitoring
