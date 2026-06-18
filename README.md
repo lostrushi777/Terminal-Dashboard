@@ -14,6 +14,7 @@ Color-coded CPU usage status
 
 # Requirements
 Python 3.8+
+
 psutil
 
 # Usage
