@@ -15,14 +15,22 @@ A lightweight terminal-based system monitoring dashboard written in Python.  Thi
 - Color-coded CPU usage status
 
 # Requirements
+```bash
 Python 3.8+
+```
 
+```bash
 psutil
+```
 
 # INSTALLATION!
+```bash
 HTTPS: git clone https://github.com/lostrushi777/Terminal-Dashboard.git
+```
 
+```bash
 SSH: git clone git@github.com:lostrushi777/Terminal-Dashboard.git
+```
 
 # Usage
 
