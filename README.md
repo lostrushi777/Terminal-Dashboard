@@ -1,7 +1,4 @@
 # Terminal-Dashboard
-A lightweight terminal-based system monitoring dashboard written in Python.  This project displays real-time system information directly in the terminal, including CPU usage, CPU temperature, memory usage, disk usage, network activity, uptime, and system information.
-
-![image_alt](https://github.com/lostrushi777/Terminal-Dashboard/blob/main/monitor_preview.png?raw=true)
 
 # Features
 - Real-time CPU usage monitoring
