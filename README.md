@@ -28,6 +28,8 @@ Run the dashboard:
 
 python monitor.py
 
+python3 monitor.py
+
 Stop the dashboard with:
 
 Ctrl + C
