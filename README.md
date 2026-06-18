@@ -16,13 +16,11 @@
 # Requirements
 ```bash
 Python 3.8+
-```
 
-```bash
 psutil
 ```
 
-# INSTALLATION!
+# Installation
 HTTPS
 ```bash
 git clone https://github.com/lostrushi777/Terminal-System-Monitor.git
