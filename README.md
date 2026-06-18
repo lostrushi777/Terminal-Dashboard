@@ -36,9 +36,6 @@ git clone git@github.com:lostrushi777/Terminal-System-Monitor.git
 
 Run the dashboard:
 ```bash
-python monitor.py
-```
-```bash
 python3 monitor.py
 ```
 Stop the dashboard with:
