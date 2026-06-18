@@ -1,4 +1,4 @@
-# Terminal-Dashboard
+# Terminal-System-Monitor
 
 ![altimage](https://github.com/lostrushi777/Terminal-Dashboard/blob/main/monitor_preview.png?raw=true)
 
@@ -24,11 +24,11 @@ psutil
 
 # INSTALLATION!
 ```bash
-HTTPS: git clone https://github.com/lostrushi777/Terminal-Dashboard.git
+HTTPS: git clone https://github.com/lostrushi777/Terminal-System-Monitor.git
 ```
 
 ```bash
-SSH: git clone git@github.com:lostrushi777/Terminal-Dashboard.git
+SSH: git clone git@github.com:lostrushi777/Terminal-System-Monitor.git
 ```
 
 # Usage
